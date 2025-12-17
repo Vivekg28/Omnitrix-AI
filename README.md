@@ -1,3 +1,12 @@
+# 👥 Team Members
+
+* **[Vivek Gautam]** - SID: [202418053]
+* **[Bhargav Pachouli]** - SID: [202418009]
+* **[Chandan Pandit]** - SID: [202418043]
+* **[Nikhil Kumar Sharma]** - SID: [202418039]
+
+---
+
 # ⌚ Ben 10 Omnitrix RAG
 
 A local, multimodal AI system that acts as a real-life Omnitrix. This project uses **Retrieval-Augmented Generation (RAG)** to identify Ben 10 aliens from images and find aliens based on text descriptions.
